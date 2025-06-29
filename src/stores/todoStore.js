@@ -3,7 +3,10 @@ import { defineStore } from 'pinia';
 import axios from 'axios';
 
 // URL ke JSON Server kita
-const API_URL = 'http://localhost:3000/todos';
+// File: src/stores/todoStore.js
+
+// URL ke API publik di My JSON Server
+const API_URL = 'https://my-json-server.typicode.com/Adinda1609/tugas4-praktikum-pbk/todos';
 
 export const useTodoStore = defineStore('todo', {
   state: () => ({
