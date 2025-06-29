@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "text": "Desain UI/UX untuk aplikasi Coquet",
+      "priority": "high",
+      "category": "projek",
+      "completed": false,
+      "createdAt": "2025-06-29T11:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "text": "Belajar integrasi API dengan Axios",
+      "priority": "medium",
+      "category": "belajar",
+      "completed": true,
+      "createdAt": "2025-06-28T10:00:00.000Z"
+    },
+    {
+      "id": "1751171912019",
+      "text": "Praktikum Pemrograman Berbasis Komponen",
+      "priority": "high",
+      "category": "deploy",
+      "completed": false,
+      "createdAt": "2025-06-29T04:38:32.019Z"
+    }
+  ]
+}
